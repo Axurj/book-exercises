@@ -5,7 +5,7 @@ Open up your command-line terminal, and perform the following tasks (no need to 
 
 ```bash
 # Navigate to your "Documents" directory
-
+cd documents
 
 # Create a new folder called "quick-exercise"
 
