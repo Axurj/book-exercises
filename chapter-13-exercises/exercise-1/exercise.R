@@ -3,6 +3,12 @@
 # Install and load the `dplyr`, `DBI`, and `RSQLite` packages for accessing
 # databases
 
+# install.packages("dyplr")
+# install.packages("DBI")
+# install.packages("RSQLite")
+library("dyplr")
+library("DBI")
+library("RSQLite")
 
 # Create a connection to the `Chinook_Sqlite.sqlite` file in the `data` folder
 # Be sure to set your working directory!
