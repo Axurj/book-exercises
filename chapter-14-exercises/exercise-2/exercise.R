@@ -9,6 +9,7 @@ library("jsonlite")
 
 # Use `source()` to load your API key variable from the `apikey.R` file you made.
 # Make sure you've set your working directory!
+source("api_key.R") #go to that file, select all, and hit cntrl enter.
 
 
 # Create a variable `movie_name` that is the name of a movie of your choice.
